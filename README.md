@@ -10,3 +10,8 @@ https://github.com/wadeChriestenson/django_startup.git
 
 
 ## You will need to add your secret key to the "djando_startup/settings.py" file
+
+### Once started use code below to install required dependences.
+''' bash
+pip install -r requirements.txt
+'''
