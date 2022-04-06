@@ -6,3 +6,4 @@ This a simple GitHub repository to have the most basic functioning Django app fo
 
 https://github.com/wadeChriestenson/django_startup.git
 
+## You will need your own virtual environment.
